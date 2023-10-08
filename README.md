@@ -7,7 +7,7 @@
 - [Лабораторная работа 3. Регулярные выражения](./computer_science/lab3)
 - [Лабораторная работа 4. Парсинг данных](./computer_science/lab4)
 - [Лабораторная работа 5. Работа с Excel](./computer_science/lab5.xlsm)
-- [Лабораторная работа 6. Работа с LaTeX](./computer_science/lab6)
+- [Лабораторная работа 6. Работа с LaTeX](./computer_science/lab6)  
 [Отчёты к лабораторным работам в форматах pdf/docx](./computer_science/reports)
 
 <b>ОПД (1 курс 1 семестр):</b>  
